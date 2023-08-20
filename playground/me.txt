@@ -1,0 +1,5 @@
+{{#user}}
+Name: Krish Agarwal
+Skills: Python, Django, DjangoREST, Flask, SQL, 
+Email: krishagarwal.ka21@gmail.com
+{{/user}}
